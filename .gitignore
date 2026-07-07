@@ -1,2 +1,5 @@
 # Exclude all binary executables compiled locally
 *.exe
+
+# Ignore vscode config files
+.vscode/
